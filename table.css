@@ -1,0 +1,38 @@
+table,tr,td,th{
+    border: 2px solid black;
+  
+}
+table{
+    width: 100%;
+    text-align: center;
+    margin: 25px 50px 75px 100px;
+}
+th{
+    height: 50px;
+    text-align: center;
+}
+td{
+height: 50px;
+vertical-align: center;
+}
+th,td{
+    padding: 15px;
+    text-align: center;
+
+}
+tr:hover{background-color:  lightgrey}
+
+
+.div1{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color:blueviolet;
+    margin: 20px;
+    padding: 50px;
+    border: 2px solid red;
+    
+}
+.t{
+    color: brown;
+}

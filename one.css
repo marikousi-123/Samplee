@@ -1,0 +1,12 @@
+.font{
+   font-size: larger;
+}
+
+.b{
+    position:sticky;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(228, 152, 209);
+    left: 0px;
+    top: 0px;
+}

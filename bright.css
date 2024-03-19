@@ -1,0 +1,20 @@
+ol.a{
+    list-style-type: decimal;
+}
+
+ol.b{
+    list-style-type: upper-roman;
+}
+
+ol.c{
+    list-style-type: lower-alpha;
+}
+ol.d{
+    list-style-type: upper-alpha;
+}
+ul.aa{
+    list-style-type: lower-greek;
+}
+ul.bb{
+    list-style-image: url("https://img.freepik.com/free-photo/purple-osteospermum-daisy-flower_1373-16.jpg");
+}

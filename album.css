@@ -1,0 +1,29 @@
+.heading{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-size: larger;
+
+}
+.one{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-size: small;
+}
+
+.totl{
+   
+    height: 250px;
+    width: 450px;
+    position: relative;
+    top: 120px;
+    left: 30%;
+}
+
+.but{
+    text-align: center;
+}
+

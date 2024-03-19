@@ -1,0 +1,86 @@
+.totl{
+
+    background-color:aquamarine;
+    margin-left: 50px;
+    background-image: url("https://m.media-amazon.com/images/I/61bGp4CZjlL._AC_UF1000,1000_QL80_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+
+
+.happy{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 10px;
+   
+}
+
+.head{
+    
+    height: 50px;
+    width: 80px;
+    font-size: x-large;
+    color: white;
+}
+
+.hom{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-left:60% ;
+    color: white;
+    
+}
+.hom p:hover{
+    color: #12adcf;
+    text-decoration: underline;
+    
+}
+.main{
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    margin-top: auto;
+    padding-top: 200px;
+    padding-bottom: 180px;
+    margin-bottom: auto;
+    color: white;
+    
+}
+
+.para{
+    font-size: small;
+    margin: 10px 70px 10px 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.click{
+    margin: 10px 10px 10px 10px;
+    height: 50px;
+    width: 160px;
+   
+    background-color: #12adcf;
+    border: 1px solid #12adcf;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.clicked{
+    margin: 10px 10px 10px 10px;
+    height: 50px;
+    width: 160px;
+    
+    background-color: rgba(0, 0, 0, 0.689);
+    border: 3px solid #12adcf;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+
+}

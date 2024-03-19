@@ -1,0 +1,31 @@
+.head1 { color : red; font-size: 50px;} 
+.head2 {color: green; font-size: 30px;font-variant: small-caps;}
+.head3 {font-size:larger;font-weight: bolder; }
+.head4 {color: blue; font-size: 20px; font-family:'Courier New', Courier, monospace ; font-style: italic; font-weight:700; 
+text-indent: 5cm;
+text-transform: capitalize;}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:hover{
+color: purple;
+}
+
+a:active{
+    color: green;
+    }
